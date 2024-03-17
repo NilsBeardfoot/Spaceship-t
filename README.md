@@ -3,11 +3,12 @@
 ### Required Libraries
 
 
->>> pip install msvcrt
->>> pip install random
->>> pip install time
->>> pip install date
-
+```
+ install msvcrt
+ pip install random
+ pip install time
+ pip install date
+```
 ## Description
 ### Abstract
 
