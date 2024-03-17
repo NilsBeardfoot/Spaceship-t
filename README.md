@@ -1,5 +1,12 @@
 # SPACESHIP/T - SHIPS in SPACE!
 ### Video Demo: <https://youtu.be/LrOVHRvcwkA>
+### Required Libraries
+
+pip install msvcrt
+pip install random
+pip install time
+pip install date
+
 ## Description
 ### Abstract
 
